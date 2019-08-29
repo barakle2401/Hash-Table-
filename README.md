@@ -1,4 +1,4 @@
-# Hash-Table-
+# Implementation of Hash-Table in C
 A hash table is a data structure used to implement an associative array, a structure that can map keys to values. A hash table uses a hash function to compute an index into an array of buckets or slots. This program will implement hash table where at each array index, we will create a Linked List, to prevent key collision. Key having same index will be stored in Linked List as it can store multiple data.  
 The hash table support these three operations:
 1. Adding an element
