@@ -1,6 +1,6 @@
 /*
-Create by Barak Levy Id 203280185
-Ex1 - Header File 
+Created by Barak Levy Id 
+
 */
 #include <stdio.h>
 #include <stdlib.h>
