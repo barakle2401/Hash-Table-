@@ -1,5 +1,5 @@
 /*
-Create by Barak Levy Id 203280185
+Created by Barak Levy 
 Program Objective:
 -Create a generic hash table (str/int) using array of pointers and linked lists
  handling collisions by linked list and dynamic expansion of the table
